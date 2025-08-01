@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I'm **HaiTT** , a student at **FPT University** 🎓.  
+I'm **HaiTT** , a student at **FPT University** 🎓...
 I’m passionate about **JavaScript** and enjoy building web applications.  
 
 ### 🚀 About Me:  
