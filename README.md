@@ -1,5 +1,12 @@
-## Hi there 👋  
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=80&duration=4000&color=FFFFFF&lines=👋+Hello+everyone+!;+I%27m+Thanh+Hai!;"
+    alt="Typing Intro"
+  />
+</p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWViMmN1dnBydXo5MjhzajF3M29odHpwNm0yam9oN3R0MGVvdXllNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" alt="coding cat" />
+</p>
 I'm **HaiTT** , a student at **FPT University** 🎓...
 I’m passionate about **JavaScript** and enjoy building web applications.  
 
@@ -17,4 +24,5 @@ I’m passionate about **JavaScript** and enjoy building web applications.
 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
  
