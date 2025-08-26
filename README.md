@@ -2,10 +2,9 @@
 
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=80&duration=4000&color=FFFFFF&lines=👋+Hello+everyone+!;+I%27m+Thanh+Hai!;"
-    alt="Typing Intro"
-  />
+ <img width="100%" height="300" 
+     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Hải%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50&desc=Software%20Engineer&descAlignY=70&descSize=20"/>
+
 </p>
 
 <p align="center">
