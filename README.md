@@ -32,7 +32,8 @@ I’m passionate about **JavaScript** and enjoy building web applications.
 - 🔗 GitHub: [Hayto98](https://github.com/Hayto98)  
 - 🖇️ Google Scholar: [To Thanh Hai](https://scholar.google.com/citations?user=lAAr59QAAAAJ&hl=en)  
 - 📘 Facebook: [Thanh Hải](https://www.facebook.com/thanh.hai.81426/)  
-- 📸 Instagram: [@thanhhai060104_](https://www.instagram.com/thanhhai060104_/)  
+- 📸 Instagram: [@thanhhai060104_](https://www.instagram.com/thanhhai060104_/)
+- 🖇️ Linkedln: [Hải Tô Thanh] https://www.linkedin.com/in/h%E1%BA%A3i-t%C3%B4-thanh-178b15410/
 
 ---
 
